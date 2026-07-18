@@ -8,8 +8,6 @@ image:
   path: /assets/img/posts/2026/mustang-panda/mustang-panda-banner.png
 ---
 
-Banner from [Crowdstrike](https://www.crowdstrike.com/en-us/blog/meet-crowdstrikes-adversary-of-the-month-for-june-mustang-panda/)
-
 # Overview
 
 Recently I've been looking to improve my threat actor infrastructure tracking capabilities, and dust off my IOC pivoting skills—given I've spent considerable time lately building infrastructure as code and exploring AI capabilities rather than pure threat analysis full time. To that end, I found a great writeup by [Kaspersky](https://securelist.com/honeymyte-updates-coolclient-uses-browser-stealers-and-scripts/118664/) where they explored one of the latest campaigns conducted by [Mustang Panda](https://attack.mitre.org/groups/G0129/), a Chinese state-sponsored threat actor group known for conducting cyber-espionage operations. In this latest campaign, the group updated its CoolClient backdoor to a version that can steal login data from browsers, monitor the clipboard, and gather details about a compromised endpoint.
