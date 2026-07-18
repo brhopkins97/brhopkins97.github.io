@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mustang Panda - When Operationalising IoCs Don't Go To Plan
-date: 28-01-2026
+date: 2026-01-28
 categories: [CTI, Nation State, China]
 tag: [CTI, Nation State, China]
 image:
