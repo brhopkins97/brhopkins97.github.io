@@ -4,5 +4,6 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+![BenH Picture](assets/img/benh-picture.png)
+
+[Ben Hopkins](https://www.linkedin.com/in/ben-h-a363911aa/) is a **Malware and Threat Specialist** currently working at zeroShadow
