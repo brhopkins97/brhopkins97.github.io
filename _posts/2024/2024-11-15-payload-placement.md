@@ -16,7 +16,7 @@ In this blog, I'll cover payload placement from the offensive perspective. I'll 
 
 Attackers and professional malware developers have serveral options as to where they can store a payload inside a portable executable (PE) file. Depending on the choice the malware develper makes, this wil mean that the payload will live inside a specific section of the PE file.
 
-If you want to know more about Windows PE structures (which I'd consider a pre-requisite to understand this blog post) please check out my other blog [Fundamentals - Portable Executable (PE) Structure](https://benhopkins.uk/posts/PEstruct/).
+If you want to know more about Windows PE structures (which I'd consider a pre-requisite to understand this blog post) please check out my other blog [Portable Executable (PE) Structure](https://brhopkins.uk/posts/PEstruct/).
 
 Payloads can be stored in any one of the below sections of a PE file:
 

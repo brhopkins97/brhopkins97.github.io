@@ -10,7 +10,7 @@ image:
 
 ## Overview
 
-In the last blog, I covered a campaign that was being conducted by a cybercriminal using the Phenedrome stealer, which hasn't been seen in a while. In the last blog, I covered the fake AnyDesk website stood up by the threat actor, and how that was used to socially engineer a victim into downloaded a loader for Phenedrome. If you want to read that blog first, feel free to go to the [link here](https://benhopkins.uk/posts/phenedrome-part-1/).
+In the last blog, I covered a campaign that was being conducted by a cybercriminal using the Phenedrome stealer, which hasn't been seen in a while. In the last blog, I covered the fake AnyDesk website stood up by the threat actor, and how that was used to socially engineer a victim into downloaded a loader for Phenedrome. If you want to read that blog first, feel free to go to the [link here](https://brhopkins.uk/posts/phenedrome-part-1/).
 
 In this blog, I'm gonig to cover the stealer itself, specifically what has changed in this campaign versus other campaigns that have gone before. Though this campaigns stealer implementation is much simpler, it will still give you a glimpse into how the stealer is intended to work, if used properly.
 
