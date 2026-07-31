@@ -3,11 +3,10 @@
 
 @use "main";
 
-/* Custom Sidebar Background */
 #sidebar {
-  background-image: linear-gradient(
-      rgba(27, 27, 27, 0.65), 
-      rgba(27, 27, 27, 0.65)
+  background: linear-gradient(
+      rgba(27, 27, 27, 0.75), 
+      rgba(27, 27, 27, 0.75)
     ), 
     url('/assets/img/sidebar-bg.jpg');
   background-size: cover;
