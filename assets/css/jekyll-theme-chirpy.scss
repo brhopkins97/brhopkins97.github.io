@@ -1,0 +1,16 @@
+---
+---
+
+@use "main";
+
+/* Custom Sidebar Background */
+#sidebar {
+  background-image: linear-gradient(
+      rgba(27, 27, 27, 0.65), 
+      rgba(27, 27, 27, 0.65)
+    ), 
+    url('/assets/img/sidebar-bg.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
